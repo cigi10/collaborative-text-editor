@@ -1,4 +1,6 @@
-# React + Vite
+# Collaborative Text Editor 
+
+Made using React, YJS, WebRT abd Monaco
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
